@@ -1,11 +1,11 @@
 :root {
-  --ink: #2f2a26;
-  --paper: #faf6f0;
-  --paper-alt: #f1e9dd;
-  --rust: #b5572c;
-  --sage: #6b7a5e;
-  --sand: #cbb896;
-  --line: #e4d9c7;
+  --ink: #2F4A3C;
+  --paper: #F7F3EB;
+  --paper-alt: #EDE6D8;
+  --rust: #2F4A3C;
+  --sage: #7B8F78;
+  --sand: #B6A89A;
+  --line: #E0D6C4;
   --maxw: 900px;
 }
 
