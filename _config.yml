@@ -1,0 +1,28 @@
+title: La Loba Pathways
+description: "Helping people navigate caregiving, aging, hospice, and end-of-life transitions - so you don't have to figure it all out alone."
+url: "https://lalobapathways.com"
+baseurl: ""
+
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+
+nav:
+  - title: What We Do
+    url: /what-we-do/
+  - title: The Path Ahead
+    url: /the-path-ahead/
+  - title: Meet Hannah & Mikeila
+    url: /about/
+  - title: Advocacy
+    url: /advocacy/
+  - title: Education
+    url: /education/
+  - title: Resources
+    url: /resources/
+  - title: Funding
+    url: /funding/
+  - title: Pathways App
+    url: /pathways-app/
+  - title: Contact
+    url: /contact/

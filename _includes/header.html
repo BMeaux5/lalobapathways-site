@@ -1,0 +1,13 @@
+<div class="draft-banner">Draft site — for internal review only</div>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="{{ '/' | relative_url }}">La Loba Pathways</a>
+    <nav class="main-nav">
+      <ul>
+        {% for item in site.nav %}
+        <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
+</header>
